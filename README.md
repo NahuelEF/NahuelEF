@@ -29,10 +29,4 @@ I'm a passionate front-end web developer with a background in crafting captivati
 
 <a href="http://www.github.com/NahuelEF"><img src="https://github-readme-stats.vercel.app/api?username=NahuelEF&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="NahuelEF's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NahuelEF/ecommerce-product-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NahuelEF&repo=ecommerce-product-page&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/NahuelEF/todo-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NahuelEF&repo=todo-app&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/NahuelEF/calculator-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NahuelEF&repo=calculator-app&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/NahuelEF/advice-generator-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NahuelEF&repo=advice-generator-app&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/NahuelEF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelEF&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
